@@ -68,12 +68,26 @@ Development tools and stack:
 3. Open the homepage at:  
    **http://ohjelmistokehitys-osa-2.local/**
 
+## What I Learned
+
+- How to create a WordPress theme from ready Theme with bloks and teplates
+- Working with Git and GitHub to version and share my theme
+
+## Continued Development
+
+- Add more custom Gutenberg blocks
+- Enhance mobile experience
+
 ## 📚 Notes
 
 - This is a practice project intended for learning only, not production use.
 - The design and content have been simplified to focus on understanding WordPress theme structure and file organization.
 
 ---
+
+## Links
+
+[GitHub](https://github.com/1967cooder/ABCs-of-media)
 
 ## Contact
 
